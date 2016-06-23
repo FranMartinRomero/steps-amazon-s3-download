@@ -1,8 +1,8 @@
-# Amazon S3 Upload
+# Amazon S3 Download
 
-The new Amazon S3 Upload step.
+The new Amazon S3 Download step.
 
-Syncs the given local folder with an S3 bucket.
+Syncs the given S3 Bucket with the local folder.
 
 This Step requires an Amazon S3 registration. To register an Amazon S3 account, [click here](http://aws.amazon.com/s3/)
 

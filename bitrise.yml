@@ -19,7 +19,7 @@ workflows:
         - access_key_id: $AWS_ACCESS_KEY
         - secret_access_key: $AWS_SECRET_KEY
         - download_bucket: $BUCKET_NAME
-        - download_local_path: _tmp/
+        - download_local_path: .
         - aws_region: $BUCKET_REGION
 
   # ----------------------------------------------------------------
